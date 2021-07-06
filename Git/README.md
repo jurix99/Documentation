@@ -1,4 +1,4 @@
-# Documenation git
+# Documentation git
 
 - Liste des commandes
   `command.md`
