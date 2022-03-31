@@ -19,7 +19,7 @@ You will like those projects!
 
 
 ## Horizontal Rules
-
+<i class="fa-solid fa-folders"></i>
 ___
 
 ---
