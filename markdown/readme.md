@@ -1,4 +1,13 @@
 ---
+---
+title: "Font Awesome in R Markdown"
+output: html_document
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+# Just a few tests with `r fa("font-awesome-logo-full", fill = "forestgreen")`
 __Advertisement :)__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
@@ -19,7 +28,6 @@ You will like those projects!
 
 
 ## Horizontal Rules
-<div><i class="fa-solid fa-folders"></i></div>
 ___
 
 ---
