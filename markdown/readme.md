@@ -1,14 +1,5 @@
 ---
----
-title: "Font Awesome in R Markdown"
-output: html_document
----
-
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
-# Just a few tests with `r fa("font-awesome-logo-full", fill = "forestgreen")`
-__Advertisement :)__
+![fa-crown](https://i.pinimg.com/564x/76/03/5c/76035cea6383259ae8136fc2f24c339f.jpg)
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
   resize in browser.
