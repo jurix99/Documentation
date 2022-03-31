@@ -1,13 +1,6 @@
 ---
 ![fa-crown](https://i.pinimg.com/564x/76/03/5c/76035cea6383259ae8136fc2f24c339f.jpg)
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
 ---
 
 # h1 Heading 8-)
