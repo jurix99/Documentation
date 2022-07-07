@@ -177,3 +177,14 @@ La commande git rebase est utilisée pour la réapplication des commits sur une 
 ``` js
 git rebase master
 ```
+
+## Rename a branch
+```
+git branch -m <new_name>
+```
+```
+git push origin -u <new_name>
+```
+```
+git push origin --delete <old_name>
+```
